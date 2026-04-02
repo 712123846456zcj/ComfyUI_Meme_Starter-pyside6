@@ -1,3 +1,12 @@
 {
-  "comfyui_root": "E:/aiproject/ComfyUI_windows_portable_nvidia_cu128/ComfyUI_windows_portable"
+  "comfyui_root": "E:/aiproject/ComfyUI_windows_portable_nvidia_cu128/ComfyUI_windows_portable",
+  "uv_enabled": false,
+  "online_enabled": false,
+  "online_ip": "0.0.0.0",
+  "online_port": "8000",
+  "hw_mode": 4,
+  "smart_mem_disabled": false,
+  "fp16_enabled": false,
+  "proxy_url": "",
+  "pip_source_index": 2
 }
